@@ -1,4 +1,4 @@
-XL_320Toolbox
+## XL_320Toolbox
 ========
 
 #####Matlab Toolbox to control ROBOTIS Dynamixel XL_320 smart servo actuators with the OpenCM9.04 microcontroller.#####
@@ -23,7 +23,7 @@ This version tested with MATLAB R2015a
 
 --------
 
-Instructions
+## Instructions
 
 Add the XL_320Toolbox folder to the MATLAB path.
 
@@ -41,7 +41,7 @@ functions are a little more complicated, but they are essential if you need to c
 
 --------
 
-License
+## License
 
 This work is provided with a GNU GPL v3.0 license (see attached file).
 
